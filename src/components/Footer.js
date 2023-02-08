@@ -19,7 +19,7 @@ export const Footer = () => {
                             <a href="https://www.linkedin.com/in/pedro-henrique-costa-dos-santos-341038206/"><img src={navIcon2} alt="Linkedin"/></a>
                             <a href="https://wa.link/0nuroq"><img src={navIcon3} alt="WhatsApp"/></a>
                         </div>
-                        <p>CopyRight 2023. Todos os direitos reservados.</p>
+                        <p>CopyRight 2023. Todos os direitos reservados. </p>
                     </Col>
                 </Row>
             </Container>
