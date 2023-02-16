@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.d5f470ee.css",
-    "main.js": "/static/js/main.bcfe7e84.js",
+    "main.js": "/static/js/main.27bac0ad.js",
     "static/js/787.ce83f9e4.chunk.js": "/static/js/787.ce83f9e4.chunk.js",
     "static/media/90f4a792-788e-47ad-95eb-b65de043794c (2).png": "/static/media/90f4a792-788e-47ad-95eb-b65de043794c (2).f2fe25ca6da510c99b87.png",
     "static/media/foto-perfil.png": "/static/media/foto-perfil.2e82dda9b5d886051646.png",
     "static/media/Evolventa-Bold-BF63c0b29a3afd5.ttf": "/static/media/Evolventa-Bold-BF63c0b29a3afd5.bdd876d18c8ec79d6fbf.ttf",
     "static/media/Evolventa-Regular-BF63c0b29a31dbb.ttf": "/static/media/Evolventa-Regular-BF63c0b29a31dbb.bea4dadebf6ff7f13e29.ttf",
     "static/media/mss5.jpg": "/static/media/mss5.555468255e60dc4d36d7.jpg",
+    "static/media/cz-sd.png": "/static/media/cz-sd.ae2617fb9019fe771e59.png",
     "static/media/whatsapp-color-svgrepo-com.svg": "/static/media/whatsapp-color-svgrepo-com.b60679bcb7c456257829d449751d5720.svg",
     "static/media/linkedin-svgrepo-com.svg": "/static/media/linkedin-svgrepo-com.5cd751adbafbab22448d65348baee454.svg",
     "static/media/github-svgrepo-com.svg": "/static/media/github-svgrepo-com.efab3547411b594c42d93dcd5537784b.svg",
     "index.html": "/index.html",
     "main.d5f470ee.css.map": "/static/css/main.d5f470ee.css.map",
-    "main.bcfe7e84.js.map": "/static/js/main.bcfe7e84.js.map",
+    "main.27bac0ad.js.map": "/static/js/main.27bac0ad.js.map",
     "787.ce83f9e4.chunk.js.map": "/static/js/787.ce83f9e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5f470ee.css",
-    "static/js/main.bcfe7e84.js"
+    "static/js/main.27bac0ad.js"
   ]
 }
