@@ -46,7 +46,7 @@ export const Banner = () => {
                     <Col>                  
                         <img src={headerImg} alt="headder img"/>
                         <h1>Olá, me chamo Pedro e sou <span className="wrap">{text}</span></h1>
-                        <p>Tenho experiência com desenvolvimento em JavaScript, React-Native, MySql, PHP e sempre venho querendo aprender mais.</p>
+                        <p>Tenho experiência com desenvolvimento em Web e Mobile.</p>
                         <hr></hr>
                     </Col>
                 </Row>

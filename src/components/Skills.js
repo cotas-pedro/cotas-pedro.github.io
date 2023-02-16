@@ -1,6 +1,8 @@
 import { Container, Row, Col, Nav, Tab } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/mss5.jpg"
+import projImg2 from "../assets/img/cz-sd.png"
+
 
 export const Projects = () => {
     
@@ -11,9 +13,9 @@ export const Projects = () => {
             imgUrl: projImg1,
         },
         {
-            title: "Em desenvolvimento...",
-            description: "Design e Desenvolvimento",
-            imgUrl: projImg1,
+            title: "Cozinha Saudável e Caseira",
+            description: "Desenvolvimento de Lading Page",
+            imgUrl: projImg2,
         },        {
             title: "Em desenvolvimento...",
             description: "Design e Desenvolvimento",
